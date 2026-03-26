@@ -16,8 +16,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 4.calculate Mean square error, data prediction and r2.
 
-## Developed by: Reena K
-## RegisterNumber:  212224040272
+## Developed by: Sairam K
+## RegisterNumber:  212225270132
 
 ## Program:
 ```Python
