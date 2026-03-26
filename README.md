@@ -46,7 +46,6 @@ r2=metrics.r2_score(y_test,y_pred)
 
 ```
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
 
 <img width="508" height="226" alt="Screenshot 2025-10-02 222625" src="https://github.com/user-attachments/assets/17e7b591-a97e-44fb-99e6-8afdcfb4fc8a" />
 
